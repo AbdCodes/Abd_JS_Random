@@ -1,0 +1,11 @@
+.divRan{
+  width:500px;
+  padding: 10px;
+  background-color: lightblue;
+  display: flex;
+  flex-direction: column;
+}
+
+input{
+  margin-bottom: 10px;
+}
